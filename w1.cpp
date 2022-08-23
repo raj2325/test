@@ -7,6 +7,7 @@ main(){
 	cout<<"Enter Any Character = ";
 	cin>>ab;
 	
+	
     if(ab >= '0' && ab <= '9')
     {
         cout<<" Its Numeric.";
